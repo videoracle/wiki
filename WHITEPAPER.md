@@ -80,7 +80,7 @@ In case of a dispute, users who had not voted for the disputed verification vide
 
 ## **Architecture**
 
-![](https://lh4.googleusercontent.com/xrQSBTaX5gduKtzT3KWFYDio0y3wZ5G6WTGYKm5dga8hpeex_Wi1MpGfdYllH8jD_Ofd1K4W-aOW9-Z9nTzS77nTfm46ygrCVAOM4xeu851nwom6mcyw4Y3x3lwe8ieY0nc3W1X535xnSZ7GteE8Gt4y0TBeX7h5GiKRIWAIiUGzjeHXwmjAyuYRJFEGOd-JPDh-tg)
+![](https://lh4.googleusercontent.com/TLgGlxuMdJcoi2LioBakdaNK4wM7ItXOQ266fgxUaxA08TGPb7VHZUR1XdIf6M4x_5i0em6P97UDPHN1PLHk0EGoBaRnErxLWidt7Ot1MdNU_p5UJ-AnKBmj0aGN4y1JLOiDlm580xTdB1YSCS_0OSha-ncTJfICs6JWO7KnnBp5YQe5Ko4ctHqhzmN5vNW-)
 
 #### **Phase 1. Requester makes request**
 
